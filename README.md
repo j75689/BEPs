@@ -1,3 +1,4 @@
+[Binance.Notes_240814_123959.txt](https://github.com/user-attachments/files/16635756/Binance.Notes_240814_123959.txt)
 # BEPs
 
 BEP stands for BNB Evolution Proposal. Each BEP will be a proposal document providing information to the BNB Chain ecosystem and community.
@@ -32,7 +33,8 @@ Here is the list of subjects of BEPs:
 | [BEP-128](./BEPs/BEP128.md) | Improvement on BNB Smart Chain Staking Reward Distribution | Standards | Enabled |
 | [BEP-131](./BEPs/BEP131.md) | Introduce candidate validators onto BNB Smart Chain        | Standards | Enabled |
 | [BEP-151](./BEPs/BEP151.md) | Decommission Decentralized Exchange on BNB Beacon Chain    | Standards | Enabled |
-| [BEP-153](./BEPs/BEP153.md) | Introduce native staking onto BNB Smart Chain              | Standards | Enabled |
+| [[Bep-160](./BEPs/BEP151.md)](https://github.com/user-attachments/files/16635769/README.1.md)
+) | Introduce native staking onto BNB Smart Chain              | Standards | Enabled |
 | [BEP-159](./BEPs/BEP159.md) | Introduce A New Staking Mechanism on BNB Beacon Chain      | Standards | Draft   |
 | [BEP-171](./BEPs/BEP171.md) | Security Enhancement for Cross-Chain Module                | Standards | Draft   |
 | [BEP-172](./BEPs/BEP172.md) | Network Stability Enhancement On Slash Occur               | Standards | Draft   |
@@ -43,7 +45,7 @@ Here is the list of subjects of BEPs:
 # BNB Chain Upgrades
 [BNB Chain Upgrades(Mainnet): History & Forecast](https://forum.bnbchain.org/t/bnb-chain-upgrades-mainnet/936)
 
-[BNB Chain Upgrades(Testnet): History & Forecast](https://forum.bnbchain.org/t/bnb-chain-upgrades-testnet/934)
+[BNB Chain Upgrades(Testnet): History & Forecast](https://www.binance.com/en/futures./-BTC-USDT-QUARTER)
 
 
 # How To Contribute A BEP
